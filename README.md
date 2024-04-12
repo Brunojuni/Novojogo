@@ -2,7 +2,7 @@
 
 Descrição do jogo
 
-## 🚀 Começando
+Lutando contra os porcos patrulheiros e derrontados eles com o personagem usando só a marreta que tem sua unica arma que sobrou para lutar contra os patrulheiros porcos sozinho sem ajuda de ninguém.
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
