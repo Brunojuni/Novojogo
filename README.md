@@ -48,7 +48,7 @@ Explique que eles verificam esses testes e porquê.
 Dar exemplos
 ```
 
-### ⌨️ E testes de estilo de codificação
+### ⌨️ Commandos do jogo de movimento AWD C Espaço
 
 Explique que eles verificam esses testes e porquê.
 
@@ -76,7 +76,7 @@ Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoS
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
-## ✒️ Autore
+## ✒️Autor
 
 Bruno Junior Fernades
 
