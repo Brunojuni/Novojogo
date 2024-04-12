@@ -1,4 +1,4 @@
-# Novojogo
+# Guerra dos porcos
 
 Um parágrafo da descrição do projeto vai aqui
 
