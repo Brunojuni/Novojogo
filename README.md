@@ -1,6 +1,6 @@
 # Guerra dos porcos
 
-Um parágrafo da descrição do projeto vai aqui
+Descrição do jogo
 
 ## 🚀 Começando
 
